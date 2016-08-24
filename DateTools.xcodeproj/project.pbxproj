@@ -8,21 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		1DF1DCBD1BBDC72B0048DB61 /* DateTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DF1DCBC1BBDC72B0048DB61 /* DateTools.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DF1DCD31BBDC78C0048DB61 /* DateTools.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1DF1DCC41BBDC78C0048DB61 /* DateTools.bundle */; settings = {ASSET_TAGS = (); }; };
+		1DF1DCD31BBDC78C0048DB61 /* DateTools.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1DF1DCC41BBDC78C0048DB61 /* DateTools.bundle */; };
 		1DF1DCD41BBDC78C0048DB61 /* DTConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DF1DCC51BBDC78C0048DB61 /* DTConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DF1DCD51BBDC78C0048DB61 /* DTConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCC61BBDC78C0048DB61 /* DTConstants.m */; settings = {ASSET_TAGS = (); }; };
+		1DF1DCD51BBDC78C0048DB61 /* DTConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCC61BBDC78C0048DB61 /* DTConstants.m */; };
 		1DF1DCD61BBDC78C0048DB61 /* DTError.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DF1DCC71BBDC78C0048DB61 /* DTError.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DF1DCD71BBDC78C0048DB61 /* DTError.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCC81BBDC78C0048DB61 /* DTError.m */; settings = {ASSET_TAGS = (); }; };
+		1DF1DCD71BBDC78C0048DB61 /* DTError.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCC81BBDC78C0048DB61 /* DTError.m */; };
 		1DF1DCD81BBDC78C0048DB61 /* DTTimePeriod.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DF1DCC91BBDC78C0048DB61 /* DTTimePeriod.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DF1DCD91BBDC78C0048DB61 /* DTTimePeriod.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCCA1BBDC78C0048DB61 /* DTTimePeriod.m */; settings = {ASSET_TAGS = (); }; };
+		1DF1DCD91BBDC78C0048DB61 /* DTTimePeriod.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCCA1BBDC78C0048DB61 /* DTTimePeriod.m */; };
 		1DF1DCDA1BBDC78C0048DB61 /* DTTimePeriodChain.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DF1DCCB1BBDC78C0048DB61 /* DTTimePeriodChain.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DF1DCDB1BBDC78C0048DB61 /* DTTimePeriodChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCCC1BBDC78C0048DB61 /* DTTimePeriodChain.m */; settings = {ASSET_TAGS = (); }; };
+		1DF1DCDB1BBDC78C0048DB61 /* DTTimePeriodChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCCC1BBDC78C0048DB61 /* DTTimePeriodChain.m */; };
 		1DF1DCDC1BBDC78C0048DB61 /* DTTimePeriodCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DF1DCCD1BBDC78C0048DB61 /* DTTimePeriodCollection.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DF1DCDD1BBDC78C0048DB61 /* DTTimePeriodCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCCE1BBDC78C0048DB61 /* DTTimePeriodCollection.m */; settings = {ASSET_TAGS = (); }; };
+		1DF1DCDD1BBDC78C0048DB61 /* DTTimePeriodCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCCE1BBDC78C0048DB61 /* DTTimePeriodCollection.m */; };
 		1DF1DCDE1BBDC78C0048DB61 /* DTTimePeriodGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DF1DCCF1BBDC78C0048DB61 /* DTTimePeriodGroup.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DF1DCDF1BBDC78C0048DB61 /* DTTimePeriodGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCD01BBDC78C0048DB61 /* DTTimePeriodGroup.m */; settings = {ASSET_TAGS = (); }; };
+		1DF1DCDF1BBDC78C0048DB61 /* DTTimePeriodGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCD01BBDC78C0048DB61 /* DTTimePeriodGroup.m */; };
 		1DF1DCE01BBDC78C0048DB61 /* NSDate+DateTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DF1DCD11BBDC78C0048DB61 /* NSDate+DateTools.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DF1DCE11BBDC78C0048DB61 /* NSDate+DateTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCD21BBDC78C0048DB61 /* NSDate+DateTools.m */; settings = {ASSET_TAGS = (); }; };
+		1DF1DCE11BBDC78C0048DB61 /* NSDate+DateTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1DCD21BBDC78C0048DB61 /* NSDate+DateTools.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -142,11 +142,12 @@
 		1DF1DCB01BBDC72B0048DB61 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = Pluralsight;
 				TargetAttributes = {
 					1DF1DCB81BBDC72B0048DB61 = {
 						CreatedOnToolsVersion = 7.0.1;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -209,8 +210,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -256,8 +259,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -287,6 +292,7 @@
 		1DF1DCC21BBDC72B0048DB61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -298,12 +304,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.pluralsight.DateTools;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
 		1DF1DCC31BBDC72B0048DB61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -315,6 +323,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.pluralsight.DateTools;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
