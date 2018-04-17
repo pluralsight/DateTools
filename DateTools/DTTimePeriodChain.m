@@ -144,9 +144,10 @@
 -(void)removeEarliestTimePeriod{
     if (periods > 0) {
         //Shift time periods earlier
+        id period = periods[0];
         [periods enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
             //Shift earlier to account for removal of first element in periods array
-            [((DTTimePeriod *) obj) shiftEarlierWithSize:DTTimePeriodSizeSecond amount:[periods[0] durationInSeconds]];
+            [((DTTimePeriod *) obj) shiftEarlierWithSize:DTTimePeriodSizeSecond amount:[period durationInSeconds]];
         }];
         
         //Remove first period
